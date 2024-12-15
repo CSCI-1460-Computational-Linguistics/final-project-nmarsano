@@ -14,3 +14,7 @@ Results:
 Presentation Video in Drive:
 
 https://drive.google.com/file/d/1M2kFZJyAWLCdgFQ228bMWNE-aQPyGrTn/view?usp=sharing
+
+
+(I recommend looking at the .py, the notebook seems to have some weird upload errors like the "<PAD>" string showing up as and empty string.)
+(May cause some confusion.)
